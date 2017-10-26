@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this a one line
+=======
+
+this two line
+>>>>>>> ca9594147361ab29ba74acd98f32fcdd7c5cff68
